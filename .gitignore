@@ -1,0 +1,13 @@
+# PowerShell originals — kept locally, not tracked in this Go repo
+*.ps1
+*.cmd
+
+# Compiled binary
+monitoring
+
+# Runtime output — regenerated on every run
+result/result.json
+monitor-logs/
+
+# macOS metadata
+.DS_Store
