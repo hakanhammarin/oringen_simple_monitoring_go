@@ -1,0 +1,468 @@
+[
+    {
+        "index": 1,
+	    "type":"OLA",
+        "ip":  "http://192.168.10.12:8080/",
+        "name":  "C-ORT - Kök - OLA Server 2 - OL",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+    },
+    {
+        "index": 2,
+        "type":"icmp",
+	    "ip":  "10.20.10.21",
+        "name":  "Arena - Kiosk 1 - SSW11",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    },
+    {
+        "index": 3,
+        "type":"icmp",
+	    "ip":  "192.168.10.11",
+        "name":  "C-Ort - OLA Server Master",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    },
+    {
+        "index": 4,
+        "type":"icmp",
+	    "ip":  "192.168.10.12",
+        "name":  "C-Ort - OLA Server Slave",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    },
+    {
+        "index": 5,
+        "type":"icmp",
+	    "ip":  "192.168.10.1",
+        "name":  "C-Ort - Firewall",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    },
+    {
+        "index": 6,
+        "type":"icmp",
+	    "ip":  "192.168.11.13",
+        "name":  "Arena - OLA Server Master",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    },
+    {
+        "index": 7,
+        "type":"icmp",
+	    "ip":  "10.20.10.12",
+        "name":  "Arena - Verifiering - SSW02",
+        "status":  "",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    },
+    {
+        "index": 8,
+        "type":"icmp",
+	    "ip":  "10.20.10.13",
+        "name":  "Arena - Kiosk - SSW03",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    },
+    {
+        "index": 9,
+        "type":"icmp",
+	    "ip":  "10.20.10.16",
+        "name":  "Arena - Verifiering - SSW06",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+    },
+    {
+        "index": 10,
+        "type":"icmp",
+	    "ip":  "10.20.10.17",
+        "name":  "Arena - Kiosk 2 - SSW07",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    },
+    {
+        "index": 11,
+        "type":"icmp",
+	    "ip":  "10.20.10.18",
+        "name":  "Arena - MTBO - SSW08",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+
+    },
+    {
+        "index": 12,
+        "type":"icmp",
+	    "ip":  "10.20.10.20",
+        "name":  "Arena - Kiosk 3 - SSW10",
+        "status":  "",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    },
+    {
+        "index": 13,
+        "type":"icmp",
+	    "ip":  "10.20.10.23",
+        "name":  "Arena - Deltagarservice - SSW13",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 14,
+        "type":"icmp",
+	    "ip":  "10.20.10.14",
+        "name":  "Arena - Sporttält - SSW14",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 15,
+        "type":"icmp",
+	    "ip":  "10.20.10.25",
+        "name":  "Arena - Mål - Syd - SSW15",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 16,
+        "type":"icmp",
+	    "ip":  "10.20.10.26",
+        "name":  "Arena - Miniknat - SSW16",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 17,
+        "type":"icmp",
+	    "ip":  "10.20.10.30",
+        "name":  "Arena - Mål - SSW20",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 18,
+        "type":"icmp",
+	    "ip":  "10.20.10.12",
+        "name":  "Arena - Verifiering - SSW06",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 19,
+        "type":"icmp",
+	    "ip":  "10.20.10.12",
+        "name":  "Arena - Verifiering - SSW06",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 20,
+        "type":"icmp",
+	    "ip":  "10.20.10.12",
+        "name":  "Arena - Verifiering - SSW06",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 21,
+        "type":"icmp",
+	    "ip":  "1.1.1.1",
+        "name":  "Internet - one.one.one.one",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 22,
+        "type":"icmp",
+	    "ip":  "9.9.9.9",
+        "name":  "Internet - Quad Nine",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 23,
+        "type":"icmp",
+	    "ip":  "192.168.10.20",
+        "name":  "C-Ort - V2 Balkong - Sharp Skrivare",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 24,
+        "type":"icmp",
+	    "ip":  "192.168.10.21",
+        "name":  "C-Ort - V1 Garderob - Sharp Skrivare ",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+{
+        "index": 25,
+	    "type":"OLA",
+        "ip":  "http://192.168.10.11:8080/",
+        "name":  "C-ORT - Kök - OLA Server 1 - OL",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+    }
+,
+{
+        "index": 26,
+	    "type":"OLA",
+        "ip":  "http://192.168.11.13:8080/",
+        "name":  "Arena - Buss - OLA Server 1 - OL",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+    }
+,
+{
+        "index": 27,
+	    "type":"OLA",
+        "ip":  "http://192.168.11.14:8080/",
+        "name":  "Arena - Buss - OLA Server 2 - OL",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+    }
+,
+    {
+        "index": 28,
+        "type":"icmp",
+	    "ip":  "192.168.11.1",
+        "name":  "Arena - Buss - Firewall",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 29,
+        "type":"icmp",
+	    "ip":  "192.168.11.14",
+        "name":  "Arena - Buss - OLA Server Slave",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+
+,
+    {
+        "index": 30,
+        "type":"icmp",
+	    "ip":  "192.168.11.21",
+        "name":  "Arena - Mål - WiROC 1",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 31,
+        "type":"icmp",
+	    "ip":  "192.168.11.22",
+        "name":  "Arena - Mål - WiROC 2",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+{
+        "index": 32,
+	    "type":"OLA",
+        "ip":  "http://192.168.13.15:8081/",
+        "name":  "Arena - Buss - OLA Server 1 - OL",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+    }
+,
+{
+        "index": 33,
+	    "type":"OLA",
+        "ip":  "http://192.168.13.16:8081/",
+        "name":  "Arena - Buss - OLA Server 2 - OL",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+    }
+,
+    {
+        "index": 34,
+        "type":"icmp",
+	    "ip":  "192.168.13.15",
+        "name":  "MTBO - OLA Server Master",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+
+,
+    {
+        "index": 35,
+        "type":"icmp",
+	    "ip":  "192.168.13.16",
+        "name":  "MTBO - OLA Server Slave",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 36,
+        "type":"icmp",
+	    "ip":  "192.168.13.1",
+        "name":  "MTBO - Firewall",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+,
+    {
+        "index": 37,
+        "type":"icmp",
+	    "ip":  "192.168.99.1",
+        "name":  "MTBO - Teltonika Router",
+        "status":  "0",
+        "time":  "",
+        "rtt":  0,
+        "count":  0,
+	    "downtime":  ""
+
+    }
+
+
+]
